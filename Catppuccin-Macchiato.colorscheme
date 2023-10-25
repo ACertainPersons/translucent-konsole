@@ -89,8 +89,8 @@ Color=202,211,245
 Color=202,211,245
 
 [General]
-Blur=false
+Blur=true
 ColorRandomization=false
 Description=Catppuccin Macchiato
-Opacity=1
+Opacity=0.9
 Wallpaper=

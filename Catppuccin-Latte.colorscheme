@@ -89,8 +89,8 @@ Color=76,79,105
 Color=76,79,105
 
 [General]
-Blur=false
+Blur=true
 ColorRandomization=false
 Description=Catppuccin Latte
-Opacity=1
+Opacity=0.9
 Wallpaper=

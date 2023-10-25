@@ -89,8 +89,8 @@ Color=198,208,245
 Color=198,208,245
 
 [General]
-Blur=false
+Blur=true
 ColorRandomization=false
 Description=Catppuccin Frappé
-Opacity=1
+Opacity=0.9
 Wallpaper=
