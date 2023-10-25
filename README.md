@@ -9,7 +9,7 @@
   <img src="https://raw.githubusercontent.com/catppuccin/konsole/main/assets/konsole.png"/>
 </p>
 
-# NOTE: THIS IS NOT DONE YET, PLEASE USE THE SCOURCE BEFORE I'M DONE
+# NOTE: THIS IS NOT DONE YET, PLEASE USE THE SOURCE BEFORE I'M DONE
 
 ## Usage
 
