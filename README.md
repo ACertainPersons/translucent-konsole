@@ -6,14 +6,10 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/konsole/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/konsole?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/konsole/issues"><img src="https://img.shields.io/github/issues/catppuccin/konsole?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/konsole/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/konsole?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/konsole/main/assets/konsole.png"/>
 </p>
+
+# NOTE: THIS IS NOT DONE YET, PLEASE USE THE SCOURCE BEFORE I'M DONE
 
 ## Usage
 
