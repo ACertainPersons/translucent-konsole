@@ -1,7 +1,7 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for <a href="https://konsole.kde.org/">Konsole</a>
+	Catppuccin for <a href="https://konsole.kde.org/">Konsole</a> but with translucency
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -9,7 +9,6 @@
   <img src="https://raw.githubusercontent.com/catppuccin/konsole/main/assets/konsole.png"/>
 </p>
 
-# NOTE: THIS IS NOT DONE YET, PLEASE USE THE SOURCE BEFORE I'M DONE
 
 ## Usage
 
@@ -23,6 +22,7 @@
 8. Click **Apply**, then **OK**
 
 ## 💝 Thanks to
+Everyone who contributed to the original project. Including but not just:
 
 -   [TheExistingOne](https://github.com/TheExistingOne)
 -   [Isabelinc](https://github.com/Isabelincorp)
